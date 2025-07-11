@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://velog.io/@hyeoni_/posts)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white)](https://velog.io/@hyeoni_/posts)
 
 </div>
 
