@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,15 +31,16 @@ Here are some ideas to get you started:
 <div align="center">
   
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=react-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeoni-729&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyeoni-729&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeoni-729&layout=compact&theme=radical)
 
 </div>
 
 <div align="center">
   
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white)](https://velog.io/@hyeoni_/posts)
+![Snake animation](https://github.com/Hyeoni-729/Hyeoni-729/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
