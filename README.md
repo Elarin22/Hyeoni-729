@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90) -->
-<!-- 웨이브 스타일 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Your%20Name&fontSize=80) -->
-
-<!-- 실린더 스타일 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Developer&fontSize=60)-->
-
-<!-- 소프트 스타일 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome&fontSize=70)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+I'm+a+Developer!;" />
