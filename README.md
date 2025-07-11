@@ -17,8 +17,17 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Making+bugs+disappear+one+line+at+a+time+✨;Python+|+Django;&color=FF1493" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Making+bugs+disappear+one+line+at+a+time+✨;Python+|+Django;&color=F08080" />
 </h1>
+
+</div>
+
+<div align="center">
+  
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyeoni-729&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeoni-729&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeoni-729&layout=compact&theme=radical)
 
 </div>
 
@@ -33,17 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeoni-729&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyeoni-729&theme=react-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeoni-729&layout=compact&theme=radical)
-
-</div>
-
-<div align="center">
-  
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white)](https://velog.io/@hyeoni_/posts)
+![Profile Views](https://komarev.com/ghpvc/?username=Hyeoni-729&color=f08080&style=flat-square)
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hyeoni-729&color=brightgreen&style=flat-square)
