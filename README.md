@@ -12,11 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+a+B.E+Developer!;&color=FF1493" />
 </h1>
+
+</div>
 
 <div align="center">
 
@@ -39,7 +43,6 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white)](https://velog.io/@hyeoni_/posts)
-![Snake animation](https://github.com/Hyeoni-729/Hyeoni-729/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
