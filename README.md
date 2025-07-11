@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+I'm+a+Developer!;" />
 </h1>
@@ -29,7 +30,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourname&theme=react-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)
 
