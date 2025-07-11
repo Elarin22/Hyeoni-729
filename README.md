@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Making+bugs+disappear+one+line+at+a+time+✨;Python+|+Django;&color=F08080" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Making+bugs+disappear+one+line+at+a+time+✨;Python+|+Django;&color=B0C4DE" />
 </h1>
 
 </div>
@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white)](https://velog.io/@hyeoni_/posts)
+
+</div>
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Hyeoni-729&color=f08080&style=flat-square)
 
 </div>
+
