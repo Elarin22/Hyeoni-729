@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <div align="center">
   
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyeoni-729&theme=react-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeoni-729&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeoni-729&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elarin22&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elarin22&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarin22&layout=compact&theme=radical)
 
 </div>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hyeoni-729&color=f08080&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Elarin22&color=f08080&style=flat-square)
 
 </div>
 
